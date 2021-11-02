@@ -1,0 +1,29 @@
+.outputData {
+  display: flex;
+  justify-content: center;
+}
+
+.dataBox {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffff;
+  /* height: 40vh; */
+  width: 70vw;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.eachElement {
+  display: block;
+  width: 90%;
+  border: 1px solid #222831;
+  color: #222831;
+  margin: 10px;
+}
+
+.textContent {
+  padding-top: 10px;
+  padding-left: 10px;
+}

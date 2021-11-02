@@ -1,0 +1,51 @@
+.myForm {
+  display: flex;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.formBox {
+  display: flex;
+  background-color: #ffff;
+  height: 40vh;
+  width: 70vw;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  bottom: 50px;
+}
+
+.labelling {
+  color: black;
+}
+
+.inputField {
+  width: 80%;
+}
+
+.addUser {
+  margin-top: 20px;
+}
+
+#popup {
+  height: 30vh;
+  width: 40vw;
+}
+
+#popupHeader {
+  width: 100%;
+  height: 30%;
+  padding: 10px;
+  background-color: purple;
+}
+
+#mymodel {
+  padding: 0;
+}
+
+.modelContent {
+  margin-top: 20px;
+
+  flex-direction: column;
+  color: black;
+}
